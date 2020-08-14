@@ -1,13 +1,11 @@
-# Jordi Pont-Tuset's site
+# Building your personal website
 
-This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog.
+This theme is based on [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes), a flexible two-column Jekyll theme, perfect for building personal websites.
 
+## Installation
+
+Check out this [blog post](https://hmdfsn.github.io//building-an-academic-website/).
 
 ## License
 
-Feel free to adapt this theme to your site without linking back to me or including a disclaimer, although letting me know would be nice. ;) 
-
-## To run it locally
-```
-jekyll serve --watch --port 5000
-```
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
